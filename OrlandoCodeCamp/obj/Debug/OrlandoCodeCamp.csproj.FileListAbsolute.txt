@@ -20,3 +20,5 @@ C:\VSProjects\OrlandoCodeCamp\OrlandoCodeCamp\bin\Debug\OCC.dll
 C:\VSProjects\OrlandoCodeCamp\OrlandoCodeCamp\bin\Debug\OCC.pdb
 C:\VSProjects\OrlandoCodeCamp\OrlandoCodeCamp\obj\Debug\OCC.dll
 C:\VSProjects\OrlandoCodeCamp\OrlandoCodeCamp\obj\Debug\OCC.pdb
+C:\VSProjects\OrlandoCodeCamp\OrlandoCodeCamp\bin\Debug\OCCPageModel.dll
+C:\VSProjects\OrlandoCodeCamp\OrlandoCodeCamp\bin\Debug\OCCPageModel.pdb

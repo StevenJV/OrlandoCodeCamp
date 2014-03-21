@@ -1,0 +1,9 @@
+C:\VSProjects\OrlandoCodeCamp\OCCPageModel\obj\Debug\OCCPageModel.csprojResolveAssemblyReference.cache
+C:\VSProjects\OrlandoCodeCamp\OCCPageModel\bin\Debug\OCCPageModel.dll
+C:\VSProjects\OrlandoCodeCamp\OCCPageModel\bin\Debug\OCCPageModel.pdb
+C:\VSProjects\OrlandoCodeCamp\OCCPageModel\bin\Debug\WebDriver.dll
+C:\VSProjects\OrlandoCodeCamp\OCCPageModel\bin\Debug\WebDriver.Support.dll
+C:\VSProjects\OrlandoCodeCamp\OCCPageModel\bin\Debug\WebDriver.xml
+C:\VSProjects\OrlandoCodeCamp\OCCPageModel\bin\Debug\WebDriver.Support.xml
+C:\VSProjects\OrlandoCodeCamp\OCCPageModel\obj\Debug\OCCPageModel.dll
+C:\VSProjects\OrlandoCodeCamp\OCCPageModel\obj\Debug\OCCPageModel.pdb

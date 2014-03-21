@@ -60,6 +60,7 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
+    <Compile Include="DynamicContent\V4Ajax - use model.cs" />
     <Compile Include="Locators\V3Login.cs" />
     <Compile Include="Locators\V2LoginUsingID.cs" />
     <Compile Include="Locators\V1LoginUsingXPath.cs" />
@@ -71,6 +72,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\OCCPageModel\OCCPageModel.csproj">
+      <Project>{90088b9d-2ff1-4c76-b405-244eec87b31b}</Project>
+      <Name>OCCPageModel</Name>
+    </ProjectReference>
   </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">

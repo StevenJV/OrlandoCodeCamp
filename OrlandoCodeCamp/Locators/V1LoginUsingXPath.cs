@@ -7,7 +7,7 @@ namespace OCC.Locators
     [TestFixture]
     public class V1LoginUsingXPath
     {
-        const string Local = "http://localhost:8080/login.html"
+        private const string Local = "http://localhost:8080/login.html";
         // const string local = "http://sv-ui.herokuapp.com/login.html";
         IWebDriver browser;
         
